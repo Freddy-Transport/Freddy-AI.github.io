@@ -19,9 +19,9 @@ My research interests include:
 - Graph Neural Networks
 - Deep Reinforcement Learning
 
-Feel free to visit my [research achievements](https://www.mdpi.com/2076-3417/13/2/711) on MDPI.
-
-
+Feel free to visit my [AMGC-AT](https://www.mdpi.com/2076-3417/13/2/711) on MDPI.
+Feel free to visit my [xxx](https://www.mdpi.com/2076-3417/13/11/6773/htm) on MDPI.
+Feel free to visit my [xxx](https://www.mdpi.com/2073-8994/14/11/2411/htm) on MDPI.
 
 
 
